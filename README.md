@@ -2,9 +2,9 @@
 
 Currently building 🛠️ [CENNZnet](https://github.com/cennznet/cennznet) blockchain ⛓️
 
-[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=holygits&theme=calm)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-
+![WiCG](https://user-images.githubusercontent.com/5133901/122706183-763ecd80-d2ab-11eb-9aff-2ba2427f0db0.gif)
+[![github streak](https://github-readme-streak-stats.herokuapp.com/?user=holygits&theme=github)](https://github.com/DenverCoder1/github-readme-streak-stats)
  
 <!--
 **holygits/holygits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
